@@ -1,0 +1,63 @@
+# Focus Groups {.unnumbered}
+
+------------------------------------------------------------------------
+
+**Required reading**:
+
+-   Pp. 148-150 in @Crawford-2020-interviewing
+
+------------------------------------------------------------------------
+
+## Why do a focus group?
+
+A focus group is a group of individuals -- @Crawford-2020-interviewing recommends 6-10, @Stewart-1990 suggests 8-12 -- convened to discuss your research topic. The term "focus" means discussion is limited to a small number of issues.
+
+As with interviewing, you don't actually ask them your research question straight up. You ask them smaller questions more anchored in their experience that cumulatively lead up to your research question or provide a body of data that address your research question.
+
+@Burkholder has little to say about focus groups. @Crawford-2020-interviewing gives the method brief discussion in her chapter on interviewing. She offers several criteria for deciding whether to do a focus group:
+
+-   **Study design**. Qualitative research traditions differ epistemologically in what counts as data and in how data should be collected. Data that emerge from a focus group have the character of a group interaction, or conversation, in which group dynamics are at work. Such might make little sense if your the tradition grounding your research emphasizes individual narrative or individual experiences that might be sensitive. On the other hand, what if your research question is about some aspect of shared culture? -- of shared practice, belief, organizational ritual, collective identity, theory of action? In that case a focus group might be a good way to go.
+
+-   **Practical considerations**. It might be easier to arrange a focus group than a series of interviews with individuals. And the data you get from a focus group could be a one and done. Considerations of accessibility, privacy, freedom from distractions, and ease of high quality data collection also play a role. In this short time frame of your program, you would be wise to consider the precious time you have to collect and analyze data.
+
+-   **Group talk**. In a focus group, more vocal participants can stimulate thinking and discussion in the group that might not otherwise occur in individual interviews. But these more vocal individuals might also dominate discussion and, in the absence of skillful moderation, take the discussion in unhelpful directions. I have witnessed focus groups essentially become gripe sessions.
+
+@Stewart-1990 suggests that focus groups
+
+-   "are particularly useful for exploratory research where relatively little is known about the phenomenon of interest" (15).
+
+-   "are also useful [following analysis of data from large, quantitative survey]{.underline}. In this latter use the focus group facilitates interpretation of quantitative results and adds depth to the responses obtained in the more structured survey" (15).
+
+The authors go on to enumerate several advantages:
+
+### Advantages of Focus Groups
+
+1.  "Focus groups provide data from a group of people much more quickly and at less cost than would be the case if each individual were interviewed separately. They also can be assembled on much shorter notice than would required for a more systematic, larger survey.
+
+2.  Focus groups allow the research to interact directly with respondents. This provides opportunities for the clarification of responses, for follow-up questions, and for the probing of responses. Respondents can qualify responses or give contingent answers to questions. In addition, it is possible for the research to observe nonverbal responses such as gestures, smiles, frowns, and so forth, which may carry information that supplements (and, on occasion, even contradicts) the verbal response.
+
+3.  The open response format of a focus group provides an opportunity to obtain large and rich amounts of data in the respondents' own words. the researcher can obtain deeper levels of meaning, make important connections, and identify subtle nuances in expression and meaning.
+
+4.  Focus groups allow respondent ot react to and build upon the responses of other group members. This synergistic effect of the group setting may result in the production of data or ideas that might not have been uncovered in individual interviews.
+
+5.  Focus groups are very flexible. They can be used to examine a wide range of topics with a variety of individuals and in a variety of the settings.
+
+6.  Focus may be one of the few research tools available for obtaining data form children or from individuals who are not particularly literate.
+
+7.  The results of a focus group are easy to understand. Researchers and decision makers can readily understand the verbal responses of most respondents. This is not always the case with more sophisticated survey research that employs complex statisitical analyses" (16).
+
+But focus groups also have their limitations:
+
+### Limitations of Focus Groups
+
+1.  "The small numbers of respondents that participate even in several different focus groups and the convenience nature of most focus group recruiting practice significantly limit generalization to a larger population. Indeed, persons who are willing to travel to a locale to participate in a one- to two-hour group discussion may be quite different from the population of interest, at least on some dimension, such as compliance or deference.
+
+2.  The interaction of respondents with one another and with the researcher has two undesirable effects. First, the responses from members of the group are not independent of one another, which restricts the generalizability of results. Second, the results obtained in a focus group may be biased by a very dominant or opinionated member. More reserved group members may be hesitant to talk.
+
+3.  The 'live' and immediate nature of the interaction may lead a researcher or decision maker to place greater faith in the findings than is actually warranted. There is a certain credibility attached to the opinion of a live respondent that is often not present in statistical summaries.
+
+4.  The open-ended nature of responses obtained in focus groups often makes summarization and interpretation fo results difficult.
+
+5.  The moderator may bias results by knowingly or unknowingly providing cues about what types of responses and answers are desirable" (@Stewart-1990, 17).
+
+------------------------------------------------------------------------

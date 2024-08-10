@@ -1,9 +1,27 @@
-# Preface {.unnumbered}
+## Description of the Course {.unnumbered}
 
-This is a Quarto book.
+The purpose of this course is to teach you about research methods and instruments for collecting data. The course will expose you to several research methods and offer guidance for collecting both quantitative and qualitative data. You should finish the course knowing:
 
-To learn more about Quarto books visit <https://quarto.org/docs/books>.
+-   how to select an appropriate research method for investigating a question for a study arising from a problem of practice
 
-```{r}
-1 + 1
-```
+-   how to conceptualize, develop, and test an instrument for collecting data
+
+-   how to evaluate the quality of data collected, and how to express your evidence-based argument in clear, simple prose, using APA format, to a skeptical reader
+
+To provide you opportunity to learn these skills, the course expects you to complete two projects: one quantitative, one qualitative. In each project, you will:
+
+1.  frame one or more questions to guide inquiry into a problem of practice
+
+2.  select a research method appropriate to the nature and purpose of your inquiry question/s,
+
+3.  conceptualize and design a small study using your selected research method,
+
+4.  design or select instrumentation to collect data,
+
+5.  collect a small sample of data,
+
+6.  critically evaluate the quality of your data
+
+7.  draw any appropriate inferences or make any appropriate claims from your study.
+
+------------------------------------------------------------------------

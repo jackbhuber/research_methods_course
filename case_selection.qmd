@@ -1,0 +1,79 @@
+# Case Selection {.unnumbered}
+
+------------------------------------------------------------------------
+
+**Required reading**:
+
+-   Pages 88-90 in @Crawford-2020-design
+
+------------------------------------------------------------------------
+
+"Qualitative studies ... are not concerned with representing a population but, instead, are focused on relevance to the research question" (@Crawford-2020-design, p. 88).
+
+Whoa!
+
+Did you catch that?
+
+When consuming research, how often do we concern ourselves with matters of sample size and representativeness . . . on the premise that larger samples are better?
+
+In qualitative research, the concern is not for generalizing to a population. As I've suggested elsewhere in this course, whereas quantitative research generally tries to test what is generally true across a population, qualitative research generally tries to discover what is deeply true of a small number of cases.
+
+Great!
+
+Then how do we go about selecting cases for a qualitative study? What cases do we select? And how many?
+
+@Crawford-2020-design echoes other qualitative researchers (@Merriam-1998) in saying that qualitative case selection is **purposive** or **purposeful**. It is based on *relevance* rather than representativeness.
+
+So how do you go about purposive sampling? Here is some guidance from different sources:
+
+## Establish criteria
+
+This means you begin with your all-important research question. It should be specific enough to offer clues about what counts as relevant data, and where to find them. From there you should be able to spell out some eligibility criteria.
+
+Are you studying parent engagement? Great! What parents qualify? Any parents? Engaged parents? Disengaged parents? Do you need both to study the contrast? And what counts as engagement?
+
+Are you studying high school student engagement in learning? Great! What does that mean in concrete terms? Which students? Engaged students, or disengaged students? Or do you need both to study the contrast? And what counts as engagement? If you walk into a classroom and see a student bored out of their mind, what if that person is getting excellent grades? Does disengagement necessarily mean low academic achievement?
+
+@Crawford-2020-design rightly points out that you need to define your terms. You need specificity in your research question. Problem of practice needs to become . . .
+
+-   **this specific problem**,
+
+-   **of *this kind* of practice**,
+
+-   **here *on the ground*, in *this specific time and place***,
+
+-   with ***these people***.
+
+Once you have identified and spelled out eligibility criteria, here are several methods of carrying out purposive sampling:
+
+-   Snowballing - asking the current participant for a referral to a next participant
+-   Convenience - using those who are readily available
+-   Opportunistic - capitalizing on unexpected leads
+
+All three of these methods might be problematic for sampling for quantitative data which needs to be faithful to probability theory. But these methods make more sense from the standpoint of fidelity to theory, and to the purpose of getting the real story.
+
+## Go for saturation
+
+How many cases or samples of data to collect? @Crawford-2020-design points to the concept of **saturation**, by which they mean:
+
+> \(1\) Continued analysis yields no new information and
+>
+> \(2\) there are no unexplained phenomena (@Crawford-2020-design, p. 90)
+
+Think minimal
+
+## Do I need more than one?
+
+I'll add one more consideration. Assuming you have a well-defined research question derived from your lit review and conceptual work and are ready to sample cases, go minimal.
+
+Maybe you've identified the perfect case of your study. Maybe it's a program that exemplifies your project. Or an innovative high school attempting to do all the right things. Or a school that has figured out how to do PLCs effectively. Or a "beating the odds" school with high poverty and high achievement. Or a key person within reach who is directly implicated in your problem of practice and research question.
+
+Do you need more than one?
+
+How many more?
+
+Two?
+
+This might be a very effective way to think about sampling for your qualitative project.
+
+------------------------------------------------------------------------

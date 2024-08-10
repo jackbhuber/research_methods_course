@@ -1,0 +1,116 @@
+# Quality of Qualitative Research {.unnumbered}
+
+------------------------------------------------------------------------
+
+**Required reading:**
+
+-   @Stewart-Ch12-2020 (Chapter 12 in @Burkholder)
+-   [Pages 277-280 in \@Miles-Huberman-1994](/assets/Miles-Huberman-Pp277-280.pdf)
+
+------------------------------------------------------------------------
+
+Oceans of ink have been spilled on what counts as high-quality quantitative data. Some of the ink has been [my own](https://jackhuber.org/pubs.html). You might say I have a thing about validity. Here are some concrete examples:
+
+-   A survey researcher collects a carefully designed random sample to best represent the target population.
+
+-   An experimental researcher goes to pains to design experimental conditions to rule out rival explanations of the effect of a treatment on an outcome measure.
+
+-   A measurement expert employs sophisticated statistical techniques to gather evidence that the responses from a standardized instrument validly measure the construct the instrument was built to measure.
+
+In each case, big decisions might be at stake. Leaders paid big salaries to make big decisions about large sums of money and many other peoples' work need solid information.
+
+Maybe, for whatever reason, quantitative research holds no appeal to you and you prefer qualitative work. Great! I've seen enough good qualitative research to have immense respect for the methodology.
+
+But if you suspect qualitative research to be any easier . . . any less rigorous . . . any *more do-able* . . . concerns of validity, reliability, dependability, and trustworthiness any less important . . . I'm sorry to disappoint you. Heavy is your burden to prove your qualitative work is credible. As @Merriam-1998 puts it:
+
+> ... how can consumers of research know when research results are trustworthy? They are trustworthy to the extent that there has been some accounting for their validity and reliability, and the nature of qualitative research means that this accounting takes different forms than in more positivist, quantitative research. 198
+
+## Common Challenges
+
+Qualitative research will likely involve talking to people, as in an interview or focus group. How do you know that someone is telling you the truth? Or are they telling you a *version* of the truth -- a sanitized or guarded truth?
+
+When I read your finished product, why should I, as the reader, trust what you're telling me? @Merriam-1998 offers a set of critical questions about the trustworthiness of your research that you might prepare to address:
+
++-------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 1.  What can you possibly tell from an *n* of 1?                                                                                                      |
+| 2.  What is it worth just to get one person's interpretations of someone else's interpretation of what is going on?                                   |
+| 3.  How can you generalize from a small, nonrandom sample?                                                                                            |
+| 4.  If the researcher is the primary instrument for data collection and analysis, how can we be sure the research is a valid and reliable instrument? |
+| 5.  How do you know the researcher isn't biased and just finding out what he or she expects to find?                                                  |
+| 6.  Doesn't the researcher's presence so alter the participant's behavior as to contaminate the data?                                                 |
+| 7.  Don't people often lie to field researchers?                                                                                                      |
+| 8.  If somebody else did this study, would they get the same results?                                                                                 |
++-------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+: Challenging the Trustworthiness of Qualitative Research (from @Merriam-1998)
+
+In qualitative research, [the instrument is the researcher]{.underline}, and subjectivity and bias are present at all levels:
+
+-   What counts as a problem of practice? For that matter, what counts as a problem? What you consider a problem may not seem so problematic to me. It's a matter of perspective -- of bias.
+
+-   What research questions are interesting? I might not find them so interesting. Or I might frame different research questions of the same topic. In interest lies bias.
+
+-   What questions will you ask of your participants? Why those questions and not others? Still more bias.
+
+-   How will you analyze the data? What categories or themes will you code from all your verbal data? Bias again.
+
+-   What conclusions will you write up from your data? Are you sure about those conclusions? All roads lead to . . . bias.
+
+As you would in quantitative study, you can ask critical questions of different parts of the qualitative research study: "Were the interviews reliably and validly constructed; was the content of the documents properly analyzed; do the conclusions of the case study rest upon data?" (Guba and Lincoln, 1981, p.375, quoted in @Merriam-1998).
+
+## Strategies for Addressing Challenges
+
+These are all important considerations, and I'll continue to harp on them. But there are strategies you can use to deal with some of these challenges.
+
+@Merriam-1998 further offers six strategies to help you address the internal validity (not an ideal term) of your qualitative research:
+
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 1.  **Triangulation**. Use multiple investigators, multiple sources of data, and/or multiple methods to confirm emerging findings, not as technological solution for ensuring validity, but for "holistic understanding." |
+| 2.  **Member checks**. Take data and tentative interpretations back to the people from whom they were derived and ask them if the results are plausible.                                                                  |
+| 3.  **Long-term observation**. Gather data over a period of time in order to increase the validity of the findings.                                                                                                       |
+| 4.  **Peer examination**. Ask colleagues to comment on the findings as they emerge.                                                                                                                                       |
+| 5.  **Participatory or collaborative modes of research**. Involve participants in all phases of the research from conceptualizing the study to writing up the findings.                                                   |
+| 6.  **Researcher's biases**. Clarify your assumptions, worldview, and theoretical orientation at the outset of the study.                                                                                                 |
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+: Six Strategies for Addressing Internal Validity of Qualitative Research (from @Merriam-1998, p. 204-5)
+
+Another somewhat erroneous challenge to qualitative research is its reliability -- that is, if someone else were to conduct the same study, would they get same results. That's a reasonable question in quantitative research. But not in qualitative research. @Merriam-1998 suggests that
+
+> rather than demanding that outsiders get the same results, a researcher wishes outsiders to concur that, given the data collected, the results make sense--they are consistent and dependable. The question then is not whether findings will be found again but whether the results are consistent with the data collected. 206\>
+
+Here are several techniques qualitative investigators can employ to ensure that results are dependable.
+
++-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 1.  **The investigator's position**. "The investigator should explain the assumptions and theory behind the study, his or her position vis-a-vis the group being studied, the basis for selecting informations and a description of them, and the social context from which data were collected" (LeCompte and Priessle, 1993; quoted in @Merriam-1998, 206-7). |
+| 2.  **Triangulation**. Again, use multiple methods and data sources to triangulate findings.                                                                                                                                                                                                                                                                    |
+| 3.  **Audit Trail**. Subject yourself and your research to audit. Put it all out there. Describe in detail how you conducted your study -- how data were collected, how categories were derived, how decisions were made throughout the inquiry -- so another can audit your work. (That's right.)                                                              |
++-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+: Strategies to Enhance Dependability of Qualitative Research (from @Merriam-1998, p. 206-7)
+
+Let's talk about **generalizability**.
+
+My sense is that most educators have at least a simple understanding of this concept: research results should apply to more people or settings than just those few, from a particular time and place, who provided data. And, taking it a step further, perhaps you have seen, heard, or even voiced challenges to the applicability or generalizability of some research.
+
+If you ask qualitative research to generalize to a broader population, or if you uncritically assume your own qualitative study will generalize to a broader population, then you would be wise to reconsider. Qualitative research, usually based on small samples, is not designed, and arguably does not intend, to generalize to a population. As I've said elsewhere: Quantitative research aims to discover or test what is generally true of a population, while qualitative research aims to find what is deeply true of a small population.
+
+@Merriam-1998 describes several alternative ways to think about broader applicability of qualitative research findings. One is **concrete universals** (Erickson, 1986). The idea here is that "the general lies in the particular; that is, what we learn in a particular situation we can transfer to similar situations subsequently encountered" (@Merriam-1998, 210), much like we do in everyday life. A second is **naturalistic generalization**. "Drawing on tacit knowledge, intuition, and personal experience, people look for patterns that explain their own experience as well as events in the world around them. 'Full and thorough knowledge of the particular' allows on to see similarities 'in new and foreign contexts' (Stake, 1978, 6). A third is **reader or user** **generalizability**. This means"leaving the extent to which a study's findings apply to other situations up to the people in those situations" (211).
+
+@Merriam-1998 goes on to suggest several strategies for helping qualitative research be more widely applicable:
+
++-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 1.  **Rich, thick description**. Providing enough description so that readers will be able to determine how closely their situations match the research situation, and hence, whether findings can be transferred.                        |
+| 2.  **Typicality or modal category**. Describing how typical the program, event, or individual is compared with others in the same class, so that users can make comparisons with their own situations.                                   |
+| 3.  **Multisite designs**. "Using several sites, cases, situations, especially those that maximize diversity in the phenomenon of interest; this will allow the results to be applied by readers to a greater range of others situations. |
++-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+: Strategies for Enhancing Applicability of Qualitative Research (from @Merriam-1998, p. 211-12)
+
+@Miles-Huberman-1994 also take up this issue of trustworthiness of qualitative research. As you might imagine, in the qualitative research world there are multiple perspectives on what counts as criteria for judging the quality of qualitative research, but @Miles-Huberman-1994 do agree that
+
+> Our view of qualitative studies take place in real social world, and can have real consequences in people's lives; that there is a reasonable view of 'what happened' in any particular situation (including what was believed, interpreted, etc.); and that we who render accounts of it can do so well or poorly, and should not consider our work unjudgable. In other words, shared standards are worth striving for (@Howe-Eisenhart; @Williams-1986).
+
+They lay out several categories of quality and list for each a set of questions for shedding light on these categories. [Read these few pages](/assets/Miles-Huberman-Pp277-280.pdf) and let these questions guide your work.
+
+------------------------------------------------------------------------

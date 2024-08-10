@@ -2,14 +2,34 @@ project:
   type: book
 
 book:
-  title: "EDLD704"
+  title: "Methods and Instruments for Data Collection"
   author: "Dr. Jack Huber"
-  date: "11/9/2022"
+  date: last-modified
   chapters:
     - index.qmd
     - intro.qmd
-    - summary.qmd
+    - part: "Quantitative Methods"
+      chapters: 
+      - surveys.qmd
+      - quasi.qmd
+      - validity.qmd
+      - data.qmd
+    - part: "Qualitative Methods"
+      chapters:
+      - interviews.qmd
+      - case_selection.qmd
+      - focus-groups.qmd
+      - trustworthiness.qmd
+      #- observation.qmd
+      #- content.qmd
+      #- case.qmd
     - references.qmd
+  downloads: [pdf, epub]
+  page-navigation: true
+  navbar: 
+    background: navy
+    foreground: white
+  site-url: https://edld704.jackhuber.org
 
 bibliography: references.bib
 

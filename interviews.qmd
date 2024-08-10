@@ -1,0 +1,180 @@
+# Interviews {.unnumbered}
+
+------------------------------------------------------------------------
+
+**Required reading**:
+
+-   @Crawford-2020-interviewing (Chapter 10 in @Burkholder)
+
+------------------------------------------------------------------------
+
+## Why interview?
+
+Maybe you know, at a high level, that the most interesting questions in your project seem to lead you more to qualitative than to quantitative data. Great! Why might you decide to do *interviews* instead of another qualitative research method?
+
+With interviews you can talk to one person at a time. You can get that person's perspective -- in all its richness -- in their own words. Maybe that person is the perfect informant; they occupy a position or have had an experience that is critical to your project. Is this person's perspective enough? Maybe that one person's perspective is all you need. What if you had several informants in the same place, talking about the same thing, as in a focus group. Should you do that? Would that give you better data?
+
+This might also be an imminently feasible research method. With interview protocol in hand, you need only reach out to a few individuals and schedule times to meet.
+
+But take care!
+
+Depending on your subject matter, to the extent you want more credible data, this method is a challenge to do well, especially if you have little experience with it. Are your interviewees telling you the full, unvarnished truth? Or are they pulling your chain?
+
+When I worked in districts, I had a saying. Whenever two people went into an office and closed the door, I said, "Well *now* somebody's going to tell the truth!"
+
+If you are in a position of authority, and you are studying your own backyard . . . which is to say you interview people you know, especially people who occupy positions of less or no authority, or whose work you oversee or have influence over, I would, or will, question the veracity of your data.
+
+This does not mean the effort is hopeless. I am willing to be convinced that your data are accurate. I am also willing to accept that you collected the best data you could under real-world constraints. But it does mean that studying your own backyard, which means interviewing people you know, which might include people who report to you, or whose work depends on decisions you make, lays upon you an extra burden of proof and rigor to overcome bias that you would not have, or would have in lesser degree or severity, if you studied a different context and/or people you don't know.
+
+## Types of interviews
+
+@Crawford-2020-interviewing distinguish three forms of interviews: structured, semi-structured, and unstructured.
+
+**Structured** interviews are standardized. They ask the same questions in the same order of all interviewees, as in a phone survey. This offers the obvious advantage that responses are directly comparable across questions. This method might not sound very interesting but it might be appropriate for your project if the kind of data you need is factual and objective, and/or if you do need the same information of every interviewee.
+
+**Semi-structured** interviews ask the same questions in the same order of all interviewees but have the option to probe for clarity or depth on questions.
+
+**Unstructured** interviews essentially adapt the data collection to the interviewee. You get your questions in when and where you can, but more important is getting all that this interviewee has to say. This is what I did in my own pre-dissertation qualitative research project. I interviewed high school teachers about their use of data. For that study, I started out with a semi-structured interview protocol, but when I actually got in front of teachers and got them talking, I relaxed my protocol to hear whatever they had to tell me. My thinking was, "What am I missing? Or, how am I missing the boat on this topic?" It was a good experience, and I think they told me the truth. But it presented a challenge in the coding stage when I lacked comparable data from the same questions across all of my teachers.
+
+For that reason and those @Crawford-2020-interviewing state in the chapter, I agree with their advice try using a semi-structured interview.
+
+With one exception: According to @Merriam-1998 (p. 75), unstructured interviews are particularly useful
+
+> when the researcher does not know enough about a phenomenon to ask relevant questions. Thus there is no predetermined set of questions, and the interview is essentially exploratory. One of the goals of the unstructured interview is, in fact, learning enough about a situation to formulate questions for subsequent interviews.
+
+## Bias
+
+There is a human factor to interviewing.
+
+Maybe that is the appeal. You want to *talk* to people!
+
+Or maybe you don't want to work with numbers or codes in a spreadsheet, or *quantify* anything. You want to work with imagery, perception, intention, reasoning, story, myth, metaphor, identity, emotion, and the like, all conveyed in *words*.
+
+But with the human factor comes the issue of **bias**.
+
+### Perceptual biases
+
+Part of the bias issue is how you as the researcher perceive. @Crawford-2020-interviewing rightly point out your perceptual biases as a human being can influence what and how you *take in* information such as:
+
+-   what you see in interviews
+
+-   what you hear in interviews
+
+-   what you find important in interview utterances
+
+To this list I would add: what counts as evidence. If you "are passionate about" or have a deep investment in a program, how open are you to conflicting information?
+
+### Researcher biases
+
+There may be aspects of you as the researcher that may hinder your efforts to get the full, unvarnished truth from your informants.
+
+This is the issue that most concerns me with *educator researchers*, especially those **in positions of authority**, or those **studying work in which they are deeply invested**, and those **studying their own backyard**.
+
+Consider these factors:
+
+-   Your race, when interviewing someone of a different race, especially about a topic with salient racial inequity
+
+-   Your gender, when interviewing someone of a different gender, especially about a topic that involves gender inequalities
+
+-   Your position of authority, when interviewing someone in a position of less authority; or someone whose work is affected by decisions you made; or worse, **someone who reports to you**
+
+-   Your energy, perhaps as an extrovert, when interviewing an introvert
+
+-   Your Type A personality, when interviewing someone who is Type B
+
+-   Your passion for a topic, when interviewing someone who does not share your passion for it
+
+I have no doubt that there are different perspectives on bias from more sophisticated qualitative researchers and I encourage you to seek out such information.
+
+In past student work I have appreciated acknowledgment of bias: "Yes, I have a bias in this study. I have a history with this topic and am passionate about it."
+
+But, to me, bias is not a flag to fly proudly, but a potential threat to the credibility of the data that a conscientious interviewer should try to mitigate. If you want to interview me, and I can tell from your position, your voice, your face, your body language, your questions, your tone of voice, that you "are passionate about this topic" **I will be very careful what I say to you, and how I say it**. As a sensitive person, I may not want to say anything to hurt your feelings. I may be more inclined to tell you what I think you want to hear. I may withhold information or emotion that may be difficult for you to hear.
+
+### Mitigating bias
+
+What steps can you take to acknowledge and work to mitigate the effects of these factors on the credibility of your data?
+
+If nothing else, the first thing I recommend is to acknowledge any and all biases that could affect both your own perceptions as well as your interviewees' perceptions. Even to make them conscious like this could help you mitigate them before, during, and after data collection.
+
+As a starting point, please carefully study Table 10.1 in @Crawford-2020-interviewing which offers a helpful array of different biases and ways to mitigate them. Among these I emphasize:
+
+-   "Find a comfortable, neutral facial expression and maintain it. if you tend to be naturally facially expressive, practice managing that in practice interviews. You want to be very careful not to express surprise, agreement, pleasure, or offense in reaction to the interviewee"
+
+-   "Limit nodding"
+
+-   "Audiotape or document verbatim. Listen to transcripts following the interview and/or review the notes"
+
+-   "It is best not to interview people you are connected to in some way"
+
+-   "Audio record interviews, and be prepared to document verbatim on site if the interviewee refuses to be audiotaped"
+
+-   "Start with more innocuous questions--such as demographic, factual-type questions--and build to the deeper questions"
+
+To all these in Table 10.1 I would add:
+
+-   Be absolutely clear in your consent process that participation at any level is voluntary and can be withdrawn at any time and data will be anonymous
+
+-   Seriously consider interviewing people you do not know
+
+-   Seriously consider collecting data in a different organization
+
+-   Be prepared to **bracket** ("a method used in qualitative research to mitigate the potentially deleterious effects of preconceptions that may taint the research process (@Tufford-2010, p. 80). There are several ways to bracket, including memoing, reflexive journaling, and external interviews (@Tufford-2010)")
+
+## Tips for conducting good interviews
+
+@Crawford-2020-interviewing offers sage advice on the kinds of details to consider when conducting an interview. I reproduce and comment on the following:
+
+### Be clear on the difference between your research questions and your interview questions.
+
+They are not the same!
+
+Maybe your research questions are very simple and straightforward. More likely, your research questions are loaded with more conceptual and/or theoretical background from your reading and literature review than your interviewees know. To ask your interviewees your research questions straight up would be too big for them.
+
+My advice is to not ask the research question directly. Instead, ask a lot of smaller background questions that will amount to an answer to the big research question.
+
+### Do a practice interview
+
+> "Practice interviewing with a friend or colleague, and record the practice sessions on videotape. Obtain feedback and conduct a self-critique with regard to your posture, your manner of asking questions, and any subtle facial expressions or voice tone that might influence participant responses. The goal here is to learn if, for example, you are asking questions too quickly or using body language to communicate judgment. The goal can also be to learn if you are missing opportunities to probe more deeply into responses" (152).
+
+This is excellent advice. I strongly encourage you to practice an interview seeking this kind of feedback before doing more interviews.
+
+### Take steps to acknowledge and mitigate bias
+
+> "When conducting the interview, the researcher must avoid body posture, body language, voice tone, and linguistic constructions that communicate judgment or lead the participant. For example, a physical response that communicates 'I like what you said' would inject researcher bias into the interview. Likewise, asking a follow-up probe such as 'Don't you think people would be better off if . . . ?' communicates an opinion on the part of the researcher, whereas a more open question such as 'What do you think would be better . . . ?' allows the respondent to more freely express opinion" (153).
+
+This, too, is excellent advice.
+
+### Try using these four kinds of questions . . .
+
+@Merriam-1998 presents four kinds of questions that work well in interviews:
+
+| Type of Question                                                                                                                                        | Example                                                                                                                |
+|----------------------------------------|--------------------------------|
+| Hypothetical Question: asks what the respondent might do or what it might be like in a particular situation; usually begins with "What if" or "Suppose" | "Suppose it is my first day in this training program. What would it be like?"                                          |
+| Devil's Advocate Question: challenges the respondent to consider an opposing view                                                                       | "Some people would say that employees who lose their job did something to bring it about. What would you say to them?" |
+| Ideal Position Question: asks the respondent to describe an ideal situation                                                                             | "What do you think the ideal training program would be like?"                                                          |
+| Interpretive Question: advances tentative interpretation of what the respondent has been saying and asks for a reaction"                                | "Would you say that returning to school as an adult is different from you expected?"                                   |
+
+: Four Types of Questions that Work Well in Interviews
+
+### . . . and avoid using these three kinds of questions
+
+By contrast, @Merriam-1998 illustrates three kinds of questions you should avoid in interviews:
+
+| Type of Question    | Example                                                          |
+|-----------------------|-------------------------------------------------|
+| Multiple Questions  | How do you feel about the instructors and the classes?           |
+| Leading Questions   | What emotional problems have you had since losing your job?      |
+| Yes-or-No Questions | Do you like the program? Has returning to school been difficult? |
+
+: Questions to Avoid
+
+### Sample Interview Protocols
+
+Here are some sample interview protocols:
+
+-   [An interview study of small schools in Washington State](/assets/interview_protocol_smallschools.pdf)
+
+-   [My interview study of high school teachers using assessment data in Washington State](/assets/interview_protocol_JBH.pdf)
+
+------------------------------------------------------------------------

@@ -1,0 +1,115 @@
+# Surveys {.unnumbered}
+
+------------------------------------------------------------------------
+
+**Required reading:**
+
+-   Chapter 4 (pp. 62-63) in @Burkholder
+
+-   Chapter 11 in @Burkholder
+
+------------------------------------------------------------------------
+
+## Why do a survey?
+
+A survey is an efficient way to collect a large quantity of data on a large number of people in a relatively short amount of time. Then one can use these data to:
+
+-   "Explore a topic that has not been previously examined" (@Burkholder, p. 163)
+
+-   "Explain a relationship between two or more variables of interest" (@Burkholder, p. 163)
+
+-   "Describe the characteristics or attributes of a population" (@Burkholder, p. 163)
+
+-   Make generalizations about a population of people
+
+-   Get a sense of the scope, extent, magnitude, or prevalence of something
+
+-   Measure a construct, such as psychological well-being
+
+Depending on your guiding questions, a survey may be the appropriate method to collect the data you need for your capstone. And at some point in your time in education, you may want or need to conduct a survey. Now is a great time to gain understanding and skill.
+
+## Some key terms
+
+Survey methods have their own vocabulary. Following is a list of key terms you should know when reading about and use when undertaking surveys:
+
+|                     |                                                                                                                                                                                                                                                                                                                                                                  |
+|----------------|--------------------------------------------------------|
+| Survey              | the "method of collecting data from and about people" (Fink, 2009, quoted in @Burkholder, p. 161)                                                                                                                                                                                                                                                                |
+| Survey instrument   | "the tool used to gather data--this term is typically used to differentiate the tool from the survey research it supports" (@Burkholder, p. 161)                                                                                                                                                                                                                 |
+| Questionnaire       | "a survey instrument that contains items that the respondent is expected to read and then report his or her own answers" (@Burkholder, p. 161)                                                                                                                                                                                                                   |
+| Form                | The body of the survey or test instrument where all of the items are assembled. A survey may use two different forms, such as Form A and Form B, each of which contains the same items in different orders, to examine the effects of item order on responses Item a question on a survey or test that gathers responses from a respondent and creates variation |
+| Response categories | Categories, such as those found on a Likert scale (1=Strongly Agree, 2=Agree, etc.), that a respondent may use to respond to a survey item                                                                                                                                                                                                                       |
+| Descriptor          | A descriptive label, such as "Strongly Agree", that one applies to a response category to make it the response meaningful to the respondent                                                                                                                                                                                                                      |
+| Respondent          | an individual who responds to an item and/or survey instrument                                                                                                                                                                                                                                                                                                   |
+| Pilot               | a phase of the survey project when an investigator uses instrument to collect sample data for the purpose of improving the instrument and/or data collection procedures                                                                                                                                                                                          |
+| Operational         | he final phase of the survey project in which the instrument collects data of sufficient quality to collect "real" data for the purpose of supporting high stakes decisions                                                                                                                                                                                      |
+
+## Properties of a poor quality survey
+
+We've all seen and/or taken poor quality surveys. Here are a few characteristics of poor quality surveys:
+
+-   **The items are too long**. The survey writer is wordy and/or has too much "voice." It's difficult to tell what the respondent is thinking and/or what the respondent is responding to.
+
+-   **The items lead the respondent**. The items are trying to "educate" or push the respondent toward something. The survey has an agenda.
+
+-   **The items and/or response categories are limited in scope**, and thus they exclude some respondents. A good example is the "Neutral/No Opinion" category.
+
+-   **The survey is too long**. By the end of the instrument, respondents will tire and stop responding to items.
+
+-   **The survey uses so many open-ended items that it is collecting primarily qualitative data and is essentially an interview project**. It will yield a wealth of comments, many of which say very similar things, and may be laborious to read and code.
+
+Please consider using these as litmus tests for the quality of your own future survey work.
+
+## How to design a high quality survey
+
+Use these steps, selected from the literature and my own professional experience doing dozens of surveys over the years, to design a high quality survey:
+
+### 1. Clarify the purpose of your survey.
+
+Begin by considering why choose a survey instead of another method to answer your question. Why is a survey appropriate for your question?
+
+What is the time frame for your survey? Will it be a timely, issue-specific "fact-finding" survey that reveals "How many people think X?" about a specific issue (such as a curriculum adoption, or a bond election)? Will the survey lose its relevance after the moment has passed? Or does your survey aim to measure something ongoing in the culture (like a school climate survey) and thus be used multiple times to build trend data?
+
+Will the data be used to quantify the magnitude of sentiment, attitude, opinion, or behavior? Will the data be used to describe a population? Will the data be used to compare groups on a sentiment, attitude, opinion, or behavior? Or could your data be used to explain which variables are stronger predictors of an outcome than others?
+
+### 2. Draft a map of the survey.
+
+Designing a good survey is much like designing a good student achievement test. The starting point for a student achievement test is not test questions, it is a map of the different learning objectives. The same goes with a survey. A survey project should begin with a high level list of the overall questions one wants answered.
+
+### 3. Sample carefully.
+
+What is the sampling method? Is it a convenience sample of people available? If so, what are some sources of sampling bias? What relevant respondents might be left out? What profit might you gain from select a probability sample?
+
+### 4. Use validated items from other established survey instruments, or write your own high quality items.
+
+Learn from the experts, when possible:
+
+-   [Writing Survey Questions (The Pew Research Center)](https://www.pewresearch.org/our-methods/u-s-surveys/writing-survey-questions/)
+
+-   [Best Practices (Washington State University)](https://surveys.wsu.edu/surveys/best-practices/)
+
+**Keep survey items short and simple**. Avoid long, wordy items that could confuse the respondent.
+
+**Avoid double-barreled items**. Keep survey items focused on [one dimension]{.underline} at a time. (I saw this in education over and over and over again.)
+
+**Don't lead or force data from the respondent**. Example: Many times I have heard people intentionally withhold a "Neutral/No Opinion" category in order to "force" the respondent to take a stand on an issue. I don't like that practice. If a respondent truly does not understand or have an opinion about a topic, I would rather know that than force the respondent to yield an artificial (and, in my mind, invalid) response.
+
+**Allow response categories that span the range of all possible responses**. Response categories on a survey item should be **exhaustive** and **mutually exclusive**. This assumes you know the full range of possible responses. If you don't, consider asking this item first as an open-ended item on a pilot survey. Then you can ask it as a closed item on your operational survey.
+
+**Be judicious in your use of open-ended items**. Allowing respondents to respond in their own words will create a large volume of comments that will take time to read, and many of the comments say similar things. Use open-ended items on a pilot instrument when you don't fully understand an issue and want to see the full range of possible types of responses to it. These types of responses can then become response categories on a closed item on an operational version of the survey.
+
+### 5. Pilot the questionnaire before going live.
+
+Show the questionnaire to a small sample of intended respondents. Ask them to take the survey, noting the following:
+
+**Confusion**. Is the purpose of the survey clear to the respondent? Is any part of it confusing to the respondent in any way? Are any items confusing as worded?
+
+**Bias**. Does the survey truly capture the full scope of respondent experience on the issue? Are some options left out? Do some items lead or force the respondent?
+
+**Length**. Is the survey an appropriate length? Does the survey tire out respondent? Aim for no longer than 15 minutes.
+
+**Validity**. Does the survey capture the thinking, (mis)conceptions, ideas, beliefs, sentiments, attitudes, opinions, and/or behaviors you designed it to capture? Or does it also capture extraneous information? Use a "think aloud" method of asking the respondent to verbalize their responses as they take the survey.
+
+In the field, there is not always time or interest to pilot a survey. But in my experience, when possible, piloting has **always** improved the quality of my surveys.
+
+------------------------------------------------------------------------

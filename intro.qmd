@@ -1,9 +1,105 @@
-# Introduction
+# Questions, Methods, and Data {.unnumbered}
 
-This is a book created from markdown and executable code.
+------------------------------------------------------------------------
 
-See @knuth84 for additional discussion of literate programming.
+In your setting, surely you've seen data collected and presented in various ways to get your attention, stimulate your thinking, illuminate an issue, and the like. Maybe you've done such data-related work yourself.
 
-```{r}
-1 + 1
-```
+Like appreciation for fine art or food acquired over time, you probably have a sense of "bad" data when you see it.
+
+Do you also have a sense of "good" data when you see it? And can it still be "good" even if you disagree with it?
+
+I want this course to help you collect better data from now on by focusing your attention on *how data are collected* -- that is, **methods** -- for conducting inquiry, which includes considerations how to collect data in ways that optimize their quality.
+
+The central concerns of this first module are the question and decision of what method to use to carry out a study. As I see it, methods depend, fundamentally, on the [nature of the research question]{.underline}: What specific kind of information or understanding does the question seek? Here I make a fundamental and admittedly over-simplistic distinction between **qualities** and **quantities**.
+
+To investigate questions that betray interest in [quantities]{.underline} -- *"To what extent...?", "How prevalent...?", "What predicts....?"* -- one should use quantitative methods. This includes surveys, experiments, quasi-experiments, and the like.
+
+To investigate questions that betray interest in [qualities]{.underline}, we employ qualitative designs and instruments. These include interviews, observations, in-depth case studies, analysis of content, and so on.
+
+Often the research question is so self-evident that the choice of method and instrumentation is obvious. 
+
+But perhaps just as often we are interested in *both*, and the qualities-quantities distinction is not so clear cut. To illustrate, consider this case study:
+
+## A Case Study
+
+In 2006, all public high schools in Washington State were required to administer the state's large-scale assessment, the Washington Assessments of Student Learning (WASL) in mathematics and reading, to all tenth grade students. By law, these students were the first graduating class required to pass the test in order to receive their high school diplomas. High stakes accountability testing was getting "real."
+
+Public educators throughout the state were anxious. Questions abounded:
+
+-   How many students would meet the standard? How close are we?
+
+-   Which students are less likely to reach the standard?
+
+-   What reforms, interventions, or other restructuring are necessary in elementary and middle school to better prepare students for the high school proficiency standard?
+
+-   What exactly are the high school proficiency standards in reading and math?
+
+-   What reforms, interventions, or other restructuring are necessary in high school to better prepare students who failed the test in tenth grade to pass the test by their senior year?
+
+This state policy was controversial. Many people decried the requirements as fundamentally unfair. Leading psychometricians (experts in test design) criticized the high stakes policies as invalid uses of (largely high quality) standardized tests. Some public educators retired early or found other jobs. Others defended the policies as necessary to bring about long overdue reforms.
+
+At the time, I was somewhere in the middle. It was early in my career in public education. I was employed as a data analyst in my district's curriculum and instruction department, and on the side I was working on my doctorate. My job, in essence, was to help educators understand student achievement data. I was unique because I had come to education not from classroom teaching but the academic world: sociology. I cared what *data* said. Here are the kinds of questions I asked at the time:
+
+-   What is the historical and/or social scientific evidence that these high stakes accountability testing policies actually work? Where and when have these policies already worked?
+
+-   And what does "actually work" really mean: To improve instruction? To help students overcome demographic disadvantages? 
+
+-   Part of the theory of action of these accountability policies is "measurement-driven instruction": testing data should provide instructionally valuable feedback. Teachers should look at data; and when they do, they should see and do .... *what*?
+
+-   "Data-based decision-making" is all the rage. But what exactly does it mean for a district or school to be "data-driven"? What decisions? What data? Might this look very different from one district or school to another?
+
+-   How does a district or school become "data-driven"? By what process of evolution?
+
+-   High school teachers already see state assessment at a high level in the summer during inservice days. How often do they look at the state assessment data for their own students? And when they do, how much instructional utility do they derive from the data?
+
+-   The policies assume that external accountability pressure will cause teachers to look at data. Can I test that empirically? Do teachers who perceive more pressure tend to look at state assessment data more often than teachers who perceive less pressure?
+
+-   Professional learning communities are hailed as a very effective model for organizing and motivating teachers to collaborate. Are high school teachers in professional learning communities more likely to use high school assessment data to improve instruction than those not in professional learning communities?
+
+After 16 years, these questions probably sound dated now. They were on a par with what people were writing at the time and they lended themselves readily to disciplined, systematic inquiry data. More to the point, let's consider the different *kinds* of research questions in this topic.
+
+## Questions for quantitative data
+
+The quantitative questions are fairly obvious:
+
+*How often* do high school teachers use state assessment data? This is a question is a no-brainer because it is about *frequency*, which ranges from *less* frequent ("hardly ever') to *more* frequent ("all the time"). To study this I needed a sample of teachers who varied in their use of data along this range of frequency.
+
+Are teachers who perceive more external accountability pressure to improve test scores *more likely* to examine their own students' state assessment data more often? This too is an unmistakably quantitative research question (or hypothesis). Implied is comparison between two groups (which is "more likely") along scales of intensity for accountability pressure (less to more intense), frequency ("rarely" to "often") of data use. To study this I needed a sample of teachers who varied in their perceptions of accountability pressure and their frequency of data use.
+
+Notice that questions for quantitative data come from an understanding of the situation of enough sophistication to know what the important variables are and how the variables might be related (do the values of one depend on the values of the other). In most cases, quantitative analysis is **deductive**; we know what to look for and we understand the situation well enough to test competing theories or understandings.
+
+Quantitative methods are also appropriate when you want to [make generalizations about a population]{.underline}. They seek to show what is **generally true** of a **large number** of "cases" (most often, people).
+
+## Questions for qualitative data
+
+Notice the questions that are more clearly about qualities than quantities. 
+
+What does it mean for a district or school to be "data-driven"? Nothing here is quantified or quantifiable. The quest is for *attributes* or *states* of "data-driven". The result could be a typology of different kinds of "data-driven"-ness. Or it could be some kind of evolutionary process with beginning and more advanced stages of development.
+
+What does it mean for a teacher to "use" state assessment data? "Using state assessment data" could mean different things among high schools than my understanding from the district office, the professional research literature, and my background in social science. I needed to talk to sample of teachers to ask them to describe in their own words how they use data.
+
+What sense do high school teachers make of state assessment data? Similar to the question above, I needed to ask teachers to describe what (if anything) they learn from state assessment data in their own words.
+
+For each of these questions, the focus is full understanding of a small number of cases (most often, people). [Generalization to a large population is *NOT* the point of qualitative methods.]{.underline} Qualitative methods aim to understand what is **deeply true** *of a* **small number** *of cases*.
+
+## Your turn
+
+Having considered the different angles for research in this case study, now think about your own problem of practice as it seems to you in your setting or milieu. Maybe this is your nascent capstone project.
+
+Write down your guiding question/s that best capture your true interest.
+
+Then consider the words you've used.
+
+Are you looking to explore something that is not well understood? Do your questions seek understanding of *kinds*, *ways in which*, *processes*, *stages*, *distinctions*, *classes*, *forms*, and the like? Are these things you can average? (No?) Do you seek understanding of the mental *models*, *theories*, *understandings*, and the like, of how someone in your setting of interest perceives something, or understands what they're doing? Do you want their own words? Are you interested in the "theory of action" behind a program or organization? Are you interested in *identities* and *self-understandings*? Are people's own *metaphors* interesting to you? Do you want to deal primarily with "words" data? If yes, then you may be primarily interested in qualitative methods.
+
+Do you have a good enough understanding of your topic that you know what the *important factors* or *variables* are? Is one variable more important than another? Do you want a sense of *scope*, *estimate*, *size*, *frequency*, *magnitude*, *intensity*, *extent*, *prevalence*, *risk*, *predictability*, *regularity*, or *relationship*? Do you want to deal with primarily with "numbers" and "scale" data? If yes, then you may be primarily interested in quantitative methods.
+
+A final word, for now, about mixed methods:
+
+There are good reasons to use mixed methods. You may want to collect some qualitative data (from interviews, observations) from a few cases to more deeply understand something. With better firsthand understanding you can then develop more accurate survey items, frame more relevant questions and hypotheses, and test competing explanations of something.
+
+My doctoral dissertation was *de facto* mixed methods. It began with qualitative work. From my role in the central office I knew a lot about my topic from a global perspective and from the professional literature, but I did not understand teacher work life very deeply. Interviewing a small sample of them helped me better understand my topic from their perspective. But I didn't stop there; I wanted to make generalizations to a population of teachers. Based on this more sophisticated understanding I was able to frame smarter research questions and better survey items and to specify and estimate more grounded statistical models. My quantitative dissertation study proper owes its quality to the preliminary qualitative work that informed it.
+
+Mixed methods are possible, and may appeal philosophically: "Why choose between the two if I can do both? Wouldn't mixed methods make the most sense and do the most justice to the topic?" True enough. And what more appropriate laboratory for learning different research methods than your doctoral program? But to do any research method well is to negotiate a learning curve, and your time and energy are limited in this fast-paced doctoral program. Do factor that into your discernment of methods. Whatever you decide, I will help you as best I can.
+
+------------------------------------------------------------------------

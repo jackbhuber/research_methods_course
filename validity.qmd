@@ -1,0 +1,129 @@
+# Validity {.unnumbered}
+
+------------------------------------------------------------------------
+
+**Required reading**:
+
+-   Pp. 176-189 in @Stewart-Ch12-2020 (Chapter 12 in @Burkholder)
+
+------------------------------------------------------------------------
+
+Validity is a big deal, in the context of research, action research, or improvement science. Let me put it to you this way: If you're using any kind of instrument to collect any kind of data to make any claim, validity is at stake.
+
+## Validity is
+
+-   "The quality of being logically or factually sound" (Oxford English Dictionary (Google))
+
+-   "the extent to which ... inferences and uses of" (@Messick-1989)
+
+-   "the approximate truth of an inference" ... "a judgment about the extent to which relevant evidence support the inference as being true or correct" (@Shadish-2002, p. 34)
+
+-   "the best available approximation to the truth or falsity of propositions, including propositions about cause" (@CookCampbell-1979, p. 37)
+
+-   "the degree to which evidence and theory support the interpretations of test scores for proposed uses of tests" (@AERA-2014)
+
+Many of these definitions are derived from the methodological literature on experimental and quasi-experimental design, and measurement.
+
+Validity is not all or nothing.
+
+In the past, it was common to describe validity as a property of an instrument: "That's not a valid survey." "That's a valid test." Many of my colleagues throughout my career have talked that way, and many times people have wanted me to declare a survey or a test "valid" or "invalid." They can be forgiven: it's simple that way. But you won't hear me make such statements.
+
+Now we understand validity as description of the [interpretations]{.underline} and [uses]{.underline} of a test, survey, or other instrument; a "judgment of the extent to which evidence and theory support the interpretations and uses of tests" or other instruments of data collection.
+
+We also talk in terms of validation: a process of gathering validity evidence regarding a test. In this sense, when I say validity is not all or nothing, it is instead a judgment based on accumulation of validity evidence.
+
+## Types of validity evidence
+
+Measurement experts (those who use instruments like test or surveys to measure abstract concepts like reading comprehension or psychological well-being, respectively) often distinguish several different types of validity evidence.
+
+### Content validity
+
+examines the content of the instrument, such as the content of the survey items or test items, in relation to the content of domain it is designed to measure. This kind of question is often raised by students early in life: "Is this on the test?" One way to gather evidence of content validity is to do [alignment studies]{.underline} that examine the content of test items in relation to a map of content taught in the classroom.
+
+### Construct validity
+
+By construct I mean "the concept or characteristic that a test is designed to measure" (@AERA-2014, p. 11). Examples include mathematics achievement, general cognitive ability, racial identity attitudes, depression, and self-esteem. Construct validation is a process of scientific study of score meaning. Often this involves statistical studies of data from observer ratings (as in the case of a classroom observation tool) or item responses (as in the case of surveys or tests), and more specifically studies of correlations among ratings, items, total scores, and other measures.
+
+### Consequential validity
+
+has to do with the consequences of measurement, particularly in regard to educational assessments designed to support individual growth in skill or proficiency or improvement in teaching. What is the purpose of the assessment? What are its intended consequences? What evidence exists that appropriate use of the assessment actually causes the intended consequences?
+
+An example: A classroom observation tool of preschool teachers. The tool guides observations of preschool teachers and paraeducators at work with students in the classroom. The tool guides what to look for and how to record the observations. The tool is so detailed that multiple individuals using the tool to observe the same classroom at the same time would record the same observations the same way, yielding almost identical data. (This is called inter-rater reliability.) Does use and interpretation of the results produce the intended improvements in instruction? Is the tool diagnostic enough to point out specific areas for improvement?
+
+## Validity in regard to causal arguments
+
+Experts on experiment and quasi-experiment distinguish between two different kinds of validity:
+
+### **Internal validity**
+
+"begs the question, 'How truthful is the proposition that a change in one variable, rather than changes in other variables, causes a change in the outcome'?" (@Stewart-Ch12-2020, p. 183).
+
+As I described elsewhere, internal validity has to do with isolating the treatment or intervention) as the only or primary explanation of an outcome amid various rival explanations of the outcome.
+
+If you want to make a causal argument that a program produced an intended favorable outcome, you have a burden to prove that the program itself was the primary cause of the outcome. Internal validity is at stake.
+
+### **External validity**
+
+is "the extent to which findings hold true across contexts" (@Stewart-Ch12-2020, p. 186).
+
+It could be that a program or intervention did a fantastic job of carefully controlling conditions in order to rule out competing factors. The downside is that is not very realistic, and the favorable results may not apply beyond that setting.
+
+One good way to get a gut sense of external validity is to read a journal article that publishes the results of an experimental study, and by this I mean a true experiment with random assignment. A good example is research on student motivation. More than a few of these studies were classroom experiments where the researcher randomly assigned students to carefully controlled experimental conditions (including a control group), then compared outcomes. These are outstanding rigorous studies that go to great pains to isolate the effect of the treatment on the outcome. One or two is well worth a read to see what all is involved. The unfortunate downside is it is hard to imagine replicating these studies a real classroom. Most ordinary classrooms are too messy (there's too much going on) to achieve such careful control of conditions.
+
+But of all this is admittedly abstract, academic definitions and conceptualizations of validity. It is very "balcony" level.
+
+Let me apply it to a real-world time and place.
+
+------------------------------------------------------------------------
+
+## Validity issues in context
+
+As I've described elsewhere, I started out as a data analyst in the curriculum and instruction department of a large suburban school district while, on the side, I earned my doctorate (in educational psychology). Then I was an assessment director for ten years. In that span of time, I did a wide variety of analyses of data from surveys, tests, course grades, attendance, discipline, enrollment, and more. I was also responsible for testing students for selection into gifted programs. Here is a series of vignettes of validity issues.
+
+### Elementary grades to declare proficiency
+
+At one time, districts spent a lot of money on non-student days for elementary teachers to render numeric grades for students. The purpose of the grades was to convey student proficiency in relation to grade content standards. The scale of the grades ranged from 1 to 4, with 1 and 2 indicating below-standard proficiency, 3 indicating "meets standard", and 4 indicating "above standard" proficiency. These grades populated a standardized standards-based report card that was sent to parents several times per year.
+
+The central validity issue is the extent to which these data supported valid claims about student proficiency. These grades were based primarily on evidence collected in the classroom. With no common grade level rubrics or protocols guided teachers on what evidence to include or how to summarize the evidence that went into the grade, the grades reflected teachers' judgment of student proficiency. Some teachers were more rigorous than others. Some teachers were more attuned to state grade level proficiency standards than others. This means that, in the aggregate, some of the variance in grades was due to variance in teachers (as raters) as well as variance in true proficiency and error variance.
+
+Because students at Grades 3 through 6 were required to take the state assessment in the spring, the state assessment served as an external source of proficiency evidence with which to validate the grades. By matching, for each student, report card grades with state test scores in the same content area, I was able to conduct correlational analysis. To expect perfect correlations would be unrealistic, but strong correlations to the rigorously-validated state assessment would be validity evidence for the report card grades. Weak correlations, however, would pose some challenge to the validity claims based on report card grades.
+
+For a more thorough account of that validity study, see [here](https://jackbhuber.files.wordpress.com/2020/05/validityofgrades.pdf) or [here](assets/study_validityofgrades.pdf).
+
+### Using test scores to select students for gifted programs
+
+Some children are "gifted." They have exceptional cognitive abilities that not well served in the general education classroom. They need to be with other students like themselves in a classroom that can go deeper into topics and cover content at a faster pace than what happens in the general education classroom. Arguably, to deny "gifted" students appropriate curriculum and instruction in a setting such as a self-contained classroom is educational malpractice. Thus every district needs some fair, systematic way to identify which students are gifted in order to place them into the appropriate classroom.
+
+It should be obvious that identification for gifted programs is shot through with validity issues. What exactly do we mean by "gifted", both conceptually and operationally? What counts as convincing evidence? How can districts collect such evidence in fair, consistent ways that will accurately identify which students are "gifted"? Assuming we have valid instrumentation in place, do the identified students actually fare better in the self-contained gifted classroom? Does giftedness depend on socioeconomics? Does it flourish in families with means?
+
+With some guidance from state law, most districts implement some form of identification process that considers different sources of evidence. One source is a standardized test of cognitive abilities called the CogAT. Districts can, with considerable planning and effort, administer this or a similar test to a large population of students and select only the highest scoring as candidates. Critics of standardized testing appropriately point out that testing will misidentify some students, particularly those at the high end. Some especially high achieving student might get lucky and score high, while some gifted students might have a poor testing day and miss a few items, rendering lower than true scores. Parents bent on their children being identified as "gifted" are vigilant about the testing process, quick to challenge any deviation from standard testing procedure that could affect test scores. District gifted personnel help mitigate this problem by triangulating test scores with other evidence, such as that provided by classroom teachers.
+
+### Evaluating a state-funded reading assistance program
+
+In what was called the Learning Assistance Program (LAP), the State of Washington provided funding to districts to hire staff members to provide extra instructional support to students who struggling to read at grade level proficiency. Years ago, in a season of scarcity, this program came under scrutiny. "How well is the program working?" "Is it worth the cost?"
+
+For my district, I was able to fashion state assessment results into a multiple-group time series design in order to examine the effect of the program on student reading achievement over time. The results of that analysis, reported [here](assets/study_LAPReading.pdf), were that students served by the LAP gained reading proficiency at higher rates than similar students not served by the program over the same period of time. The best available evidence was that LAP was working.
+
+### Using test scores to assess readiness for college and career
+
+Readiness for the rigor of college and career has been an increasingly important indicator of the effectiveness of high schools in recent years. What exactly does that mean? If the question "What do these scores mean?" occurs to you -- it's a validity question.
+
+For many years, high school students took aptitude tests like the SAT and ACT to achieve the highest possible scores. The premise was these assessments predicted academic success in the freshman year as evidenced by a strong correlation between SAT and ACT scores and freshman course grades. Correlational work like this is validity research.
+
+You may not know that there is more to this story. That correlational work examining college placement test scores and freshman year course grades also found that the high school grade point average was a stronger predictor of freshman year course grades than the placement test scores -- and these models explained only 25% of the variance in freshman year course grades. Twenty-five percent is a lot of variance by social scientific standards, but clearly the vast majority of variance in freshman year course grades had nothing to do with high school grades and test scores.
+
+I wrote an article on this, available to you [here](https://jackbhuber.files.wordpress.com/2020/04/validity-of-college-and-career-readiness-assessments.pdf) (go to Page 10).
+
+------------------------------------------------------------------------
+
+## Summary
+
+The point of all this is to flesh out what validity means in real world context.
+
+While I have always had a tendency to reify the concept of validity, it is probably more accurate to think of it as a word for describing two things:
+
+-   the quality, trustworthiness, defensibility, and/or credibility of data for supporting whatever inference, claim, decision, or use for the data were collected; and/or
+
+-   the craftsmanship and care that went into the design of the instrument(s), study, project, or collection of data.
+
+------------------------------------------------------------------------

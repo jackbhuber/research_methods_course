@@ -1,0 +1,30 @@
+# Data Sources {.unnumbered}
+
+------------------------------------------------------------------------
+
+With technological advances in technology, access to data has increased by leaps and bounds, and this includes data available to the public for free download. Here is a curated list of public education data:
+
+## Public education data
+
+### Washington State
+
+-   [Data & Reporting](https://www.k12.wa.us/data-reporting)
+-   [Data Portal](https://www.k12.wa.us/data-reporting/data-portal)
+-   [Washington State Report Card](https://washingtonstatereportcard.ospi.k12.wa.us/)
+-   [Data.WA.gov](https://data.wa.gov/)
+-   [Report Card Spring Assessment Data from 2014-15 to 2021-22](https://data.wa.gov/education/Report-Card-Spring-Assessment-Data-from-2014-15-to/292v-tb9r)
+
+### National
+
+-   [National Center for Educational Statistics](https://nces.ed.gov/)
+-   [U.S. Census Bureau - Education](https://www.census.gov/topics/education.html)
+
+## Other public data
+
+- [The General Social Survey (GSS)](https://gss.norc.org/)
+- [International Consortium for Political and Social Research (ICPSR) ](https://www.icpsr.umich.edu/web/pages/index.html)
+- [Pew Research Center](https://www.pewresearch.org/)
+- [Data is Plural](https://www.data-is-plural.com/)
+- [Tableau Public Gallery](https://public.tableau.com/app/discover)
+
+------------------------------------------------------------------------
