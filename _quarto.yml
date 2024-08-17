@@ -5,6 +5,8 @@ book:
   title: "Methods and Instruments for Data Collection"
   author: "Dr. Jack Huber"
   date: last-modified
+  page-footer: 
+    center: "Built in R with Quarto"
   chapters:
     - index.qmd
     - intro.qmd
