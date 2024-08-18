@@ -31,6 +31,10 @@ book:
   navbar: 
     background: navy
     foreground: white
+    right:
+      - icon: house
+        text: "Home"
+        href: https://jackhuber.org
   site-url: https://edld704.jackhuber.org
 
 bibliography: references.bib
